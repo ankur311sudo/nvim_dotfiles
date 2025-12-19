@@ -28,7 +28,7 @@ return {
           globalstatus = true,
         },
         sections = {
-          lualine_a = { mode }, -- 👈 here we use your custom component
+          lualine_a = { mode },
           lualine_b = { "branch", "diff" },
           lualine_c = { "filename" },
           lualine_x = { "encoding", "filetype" },
