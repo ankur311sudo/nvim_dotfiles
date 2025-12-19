@@ -1,0 +1,1 @@
+/home/ank/.config/omarchy/current/theme/neovim.lua
